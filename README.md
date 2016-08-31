@@ -1,2 +1,6 @@
 # online-shops
-Ideas
+
+- épices
+- alcool
+- gourdes, thermos
+- bonbons
